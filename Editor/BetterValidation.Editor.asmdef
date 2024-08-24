@@ -1,0 +1,26 @@
+{
+    "name": "BetterValidation.Editor",
+    "rootNamespace": "Better.Validation.EditorAddons",
+    "references": [
+        "GUID:01df13aca8d01e24a911bcc3e8277031",
+        "GUID:ecdd0819e3429eb44b13a432679a1135",
+        "GUID:1862b35041b066d42ab4d3caf773657b",
+        "GUID:af7fffdf1d83bc842b0f6e3a01efda16",
+        "GUID:8bd4b41f8da90144d9006c4d926c9679",
+        "GUID:55fbe2a01ca11514f94a66e7102c8895",
+        "GUID:35101f455c979e94c9a0a4793484b7fd",
+        "GUID:b6053aaf850e1f44ebbe8a655121831f",
+        "GUID:441b78e90a9cf724ab41c6eed8c0b93d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
