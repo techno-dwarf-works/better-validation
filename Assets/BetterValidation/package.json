@@ -1,7 +1,7 @@
 {
   "name": "com.tdw.better.validation",
   "displayName": "Better Validation",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "unity": "2021.3",
   "description": " ",
   "dependencies": {
