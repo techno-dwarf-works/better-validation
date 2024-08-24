@@ -1,6 +1,6 @@
 # Better Validation
 
-[![openupm](https://img.shields.io/npm/v/com.uurha.bettervalidation?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.bettervalidation/)
+[![openupm](https://img.shields.io/npm/v/com.tdw.better.validation?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.tdw.better.validation/)
 
 <p align="center">
 <img src="https://github.com/uurha/BetterValidation/assets/22265817/f0b6b50d-0d4c-4646-a37e-24ae1433f926" alt="image" style="width:49%;">
