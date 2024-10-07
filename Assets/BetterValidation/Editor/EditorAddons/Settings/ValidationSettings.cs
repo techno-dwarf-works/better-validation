@@ -10,9 +10,11 @@ using UnityEngine;
 
 namespace Better.Validation.EditorAddons.Settings
 {
-    [ScriptableCreate(PrefixConstants.BetterPrefix + "/" + nameof(Editor) + "/" + nameof(Validation))]
+    [ScriptableCreate(SettingsPath)]
     public class ValidationSettings : ScriptableSettings<ValidationSettings>
     {
+        public const string SettingsPath = PrefixConstants.BetterPrefix + "/" + nameof(Editor) + "/" + nameof(Validation);
+        
         [SerializeField] private bool _disableBuildValidation;
         [SerializeField] private ValidationType _buildLoggingLevel = ValidationType.Warning;
 
